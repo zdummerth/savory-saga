@@ -53,7 +53,7 @@ export default function Search() {
         </div>
 
         {filteredRecipes.length > 0 && (
-          <div className="absolute top-full left-0 right-0 bg-white rounded-xl">
+          <div className="absolute top-full left-0 right-0 bg-inherit rounded-xl">
             {filteredRecipes.map((recipe: any, ind: number) => (
               <Link
                 key={recipe.title + ind}
