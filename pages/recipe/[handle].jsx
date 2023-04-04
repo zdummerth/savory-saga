@@ -3,6 +3,7 @@ import Search from "@/components/Search";
 import Seo from "@/components/Seo";
 import slugify from "slugify";
 import Recipe from "@/components/Recipe";
+import Link from "next/link";
 
 const handles = data.recipes.map((recipe) =>
   slugify(recipe.title, { lower: true })
@@ -13,6 +14,9 @@ function RecipePage({ recipe }) {
       <Seo title={recipe.title} description={recipe.description} />
       <main className="p-2 max-w-3xl m-auto">
         <Search />
+        <Link href={"/"}>
+          <span className="mr-2">&larr;</span>Home
+        </Link>
         <Recipe recipe={recipe} showIngredients={true} />
       </main>
     </>
