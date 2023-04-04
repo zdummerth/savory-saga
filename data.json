@@ -1,0 +1,524 @@
+{
+  "recipes": [
+    {
+      "title": "Classic Chocolate Chip Cookies",
+      "description": "Soft, chewy, and loaded with chocolate chips, these cookies are a crowd-pleaser.",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup unsalted butter, softened",
+        "3/4 cup white sugar",
+        "3/4 cup brown sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a medium bowl, whisk together the flour, baking soda, and salt.",
+        "In a large bowl, cream together the butter, white sugar, and brown sugar until light and fluffy.",
+        "Beat in the eggs one at a time, then stir in the vanilla extract.",
+        "Gradually mix in the dry ingredients until just blended.",
+        "Stir in the chocolate chips.",
+        "Drop rounded spoonfuls of dough onto ungreased baking sheets.",
+        "Bake for 8 to 10 minutes, or until lightly golden brown.",
+        "Cool on wire racks."
+      ],
+      "prep_time": 20,
+      "cook_time": 10,
+      "total_time": 30,
+      "servings": 24,
+      "image": "",
+      "tags": ["dessert", "cookies", "chocolate"]
+    },
+    {
+      "title": "Vegetable Stir-Fry",
+      "description": "This quick and easy stir-fry is packed with colorful veggies and flavorful sauce.",
+      "ingredients": [
+        "1 tbsp vegetable oil",
+        "1 onion, chopped",
+        "2 garlic cloves, minced",
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 zucchini, sliced",
+        "1 cup broccoli florets",
+        "1/2 cup snow peas",
+        "1/2 cup sliced mushrooms",
+        "1/4 cup soy sauce",
+        "1 tbsp cornstarch",
+        "1 tsp honey",
+        "1 tsp grated ginger",
+        "1/4 cup water"
+      ],
+      "instructions": [
+        "In a wok or large skillet, heat the vegetable oil over medium-high heat.",
+        "Add the onion and garlic and stir-fry for 1 minute.",
+        "Add the bell peppers, zucchini, broccoli, snow peas, and mushrooms and stir-fry for 3 to 4 minutes, or until vegetables are tender-crisp.",
+        "In a small bowl, whisk together the soy sauce, cornstarch, honey, ginger, and water.",
+        "Pour the sauce into the wok and stir-fry for 1 to 2 minutes, or until sauce thickens and coats the vegetables.",
+        "Serve over steamed rice."
+      ],
+      "prep_time": 10,
+      "cook_time": 10,
+      "total_time": 20,
+      "servings": 4,
+      "image": "",
+      "tags": ["dinner", "vegetarian", "stir-fry"]
+    },
+    {
+      "title": "Classic Margherita Pizza",
+      "description": "This classic pizza features a simple but delicious combination of tomato sauce, mozzarella cheese, and fresh basil.",
+      "ingredients": [
+        "1 lb pizza dough",
+        "1/2 cup tomato sauce",
+        "2 cups shredded mozzarella cheese",
+        "1/4 cup chopped fresh basil"
+      ],
+      "instructions": [
+        "Preheat oven to 450°F (230°C).",
+        "Roll out the pizza dough on a lightly floured surface to your desired thickness.",
+        "Spread the tomato sauce evenly over the dough, leaving a small border around the edges.",
+        "Sprinkle the mozzarella cheese over the sauce.",
+        "Bake for 10 to 12 minutes, or until crust is golden brown and cheese is melted and bubbly.",
+        "Top with chopped fresh basil before serving."
+      ],
+      "prep_time": 15,
+      "cook_time": 12,
+      "total_time": 27,
+      "servings": 4,
+      "image": "",
+      "tags": ["dinner", "pizza", "vegetarian"]
+    },
+    {
+      "title": "Creamy Tomato Soup",
+      "description": "This soup is warm, comforting, and perfect for a chilly day.",
+      "ingredients": [
+        "2 tbsp unsalted butter",
+        "1 onion, chopped",
+        "2 garlic cloves, minced",
+        "2 cans (28 oz each) crushed tomatoes",
+        "2 cups chicken or vegetable broth",
+        "1/2 cup heavy cream",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/4 cup chopped fresh basil",
+        "Croutons or toasted bread, for serving"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, melt the butter over medium heat.",
+        "Add the onion and garlic and sauté for 5 minutes, or until soft and translucent.",
+        "Add the crushed tomatoes and broth and bring to a boil.",
+        "Reduce heat and simmer for 20 minutes, stirring occasionally.",
+        "Stir in the heavy cream, salt, and black pepper.",
+        "Using an immersion blender or working in batches in a blender, puree the soup until smooth.",
+        "Stir in the chopped basil.",
+        "Serve hot with croutons or toasted bread."
+      ],
+      "prep_time": 10,
+      "cook_time": 30,
+      "total_time": 40,
+      "servings": 6,
+      "tags": ["soup", "dinner", "vegetarian"]
+    },
+    {
+      "title": "Greek Salad",
+      "description": "This fresh and colorful salad is a delicious way to enjoy the flavors of the Mediterranean.",
+      "ingredients": [
+        "4 cups mixed salad greens",
+        "1/2 cucumber, sliced",
+        "1/2 red onion, thinly sliced",
+        "1/2 cup cherry tomatoes, halved",
+        "1/2 cup Kalamata olives",
+        "1/2 cup crumbled feta cheese",
+        "1/4 cup extra-virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp dried oregano",
+        "Salt and black pepper, to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine the salad greens, cucumber, red onion, cherry tomatoes, olives, and feta cheese.",
+        "In a small bowl, whisk together the olive oil, red wine vinegar, oregano, salt, and black pepper.",
+        "Drizzle the dressing over the salad and toss to combine.",
+        "Serve immediately."
+      ],
+      "prep_time": 15,
+      "cook_time": 0,
+      "total_time": 15,
+      "servings": 4,
+      "tags": ["salad", "lunch", "vegetarian", "gluten-free"]
+    },
+    {
+      "title": "Beef Stroganoff",
+      "description": "This classic Russian dish features tender beef in a creamy sauce, served over egg noodles.",
+      "ingredients": [
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp unsalted butter",
+        "1 onion, chopped",
+        "2 garlic cloves, minced",
+        "8 oz mushrooms, sliced",
+        "1 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "1 tbsp Dijon mustard",
+        "1/2 cup sour cream",
+        "Salt and black pepper, to taste",
+        "12 oz egg noodles, cooked and drained",
+        "Chopped fresh parsley, for garnish"
+      ],
+      "instructions": [
+        "In a large skillet, melt the butter over medium-high heat.",
+        "Add the beef and cook for 5 to 7 minutes, or until browned and cooked through.",
+        "Remove the beef from the skillet and set aside.",
+        "Add the onion, garlic, and mushrooms to the skillet and sauté for 5 minutes, or until softened.",
+        "Stir in the flour and cook for 1 minute.",
+        "Gradually whisk in the beef broth and Dijon mustard, stirring constantly.",
+        "Bring the mixture to a simmer and cook for 5 minutes, or until the sauce has thickened.",
+        "Remove the skillet from the heat and stir in the sour cream.",
+        "Season the sauce with salt and black pepper to taste.",
+        "Serve the beef stroganoff over the cooked egg noodles.",
+        "Garnish with chopped fresh parsley, if desired."
+      ],
+      "prep_time": 20,
+      "cook_time": 25,
+      "total_time": 45,
+      "servings": 4,
+      "image": "https://example.com/beef-stroganoff.jpg",
+      "tags": ["dinner", "beef"]
+    },
+    {
+      "title": "Chili Con Carne",
+      "description": "This hearty chili is a classic comfort food that's perfect for cold weather or game day gatherings.",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 garlic cloves, minced",
+        "1 red bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "1 lb ground beef",
+        "1 tbsp chili powder",
+        "1 tsp ground cumin",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp cayenne pepper",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "1 can (15 oz) kidney beans, drained and rinsed",
+        "1 cup beef broth",
+        "Salt and black pepper, to taste",
+        "Sour cream, shredded cheddar cheese, and sliced green onions, for garnish"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, heat the olive oil over medium-high heat.",
+        "Add the onion, garlic, and bell peppers and sauté for 5 minutes, or until softened.",
+        "Add the ground beef and cook, stirring occasionally, until browned and cooked through.",
+        "Stir in the chili powder, cumin, smoked paprika, and cayenne pepper and cook for 1 minute.",
+        "Add the diced tomatoes (with their juices), kidney beans, and beef broth to the pot.",
+        "Bring the mixture to a simmer and cook for 20 to 25 minutes, or until the chili has thickened and the flavors have melded together.",
+        "Season the chili with salt and black pepper to taste.",
+        "Serve the chili hot, garnished with a dollop of sour cream, shredded cheddar cheese, and sliced green onions."
+      ],
+      "prep_time": 15,
+      "cook_time": 35,
+      "total_time": 50,
+      "servings": 6,
+      "image": "https://example.com/chili-con-carne.jpg",
+      "tags": ["dinner", "beef", "spicy"]
+    },
+    {
+      "title": "Chicken Fajitas",
+      "description": "These sizzling fajitas are loaded with tender chicken, sautéed peppers and onions, and all your favorite toppings.",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breasts, sliced",
+        "2 tbsp vegetable oil",
+        "1 green bell pepper, sliced",
+        "1 red bell pepper, sliced",
+        "1 onion, sliced",
+        "1 tbsp chili powder",
+        "1 tsp ground cumin",
+        "1 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1/4 tsp cayenne pepper",
+        "Salt and black pepper, to taste",
+        "8 flour tortillas, warmed",
+        "Optional toppings: shredded cheese, sour cream, guacamole, salsa, chopped cilantro"
+      ],
+      "instructions": [
+        "Heat the vegetable oil in a large skillet over medium-high heat.",
+        "Add the chicken and sauté for 5 to 7 minutes, or until cooked through.",
+        "Remove the chicken from the skillet and set aside.",
+        "Add the peppers and onion to the skillet and sauté for 5 minutes, or until softened.",
+        "Stir in the chili powder, cumin, smoked paprika, garlic powder, onion powder, cayenne pepper, salt, and black pepper.",
+        "Add the chicken back to the skillet and toss to combine with the pepper mixture.",
+        "Serve the chicken fajitas in warm tortillas, with your desired toppings."
+      ],
+      "prep_time": 15,
+      "cook_time": 15,
+      "total_time": 30,
+      "servings": 4,
+      "image": "https://example.com/chicken-fajitas.jpg",
+      "tags": ["dinner", "chicken", "Mexican", "gluten-free"]
+    },
+    {
+      "title": "Roasted Chicken with Lemon and Garlic",
+      "description": "This easy roasted chicken is packed with flavor, thanks to a simple marinade of lemon and garlic.",
+      "ingredients": [
+        "1 whole chicken (about 4 lbs)",
+        "2 lemons, thinly sliced",
+        "8 garlic cloves, minced",
+        "1/4 cup extra-virgin olive oil",
+        "2 tbsp fresh rosemary leaves, chopped",
+        "Salt and black pepper, to taste"
+      ],
+      "instructions": [
+        "In a small bowl, whisk together the garlic, olive oil, rosemary, salt, and black pepper.",
+        "Place the chicken in a large resealable plastic bag.",
+        "Pour the marinade over the chicken, making sure it is evenly coated.",
+        "Add the lemon slices to the bag and seal it tightly.",
+        "Marinate the chicken in the refrigerator for at least 2 hours, or overnight.",
+        "Preheat the oven to 425°F.",
+        "Remove the chicken from the bag and discard the marinade and lemon slices.",
+        "Place the chicken on a roasting pan and season it with additional salt and black pepper, if desired.",
+        "Roast the chicken for 50 to 60 minutes, or until the internal temperature reaches 165°F.",
+        "Let the chicken rest for 10 minutes before carving and serving."
+      ],
+      "prep_time": 10,
+      "cook_time": 60,
+      "total_time": 130,
+      "servings": 4,
+      "image": "https://example.com/roasted-chicken.jpg",
+      "tags": ["dinner", "chicken", "gluten-free"]
+    },
+    {
+      "title": "Baked Salmon with Lemon and Garlic",
+      "description": "This healthy and delicious salmon dish is perfect for a quick and easy dinner.",
+      "ingredients": [
+        "4 salmon fillets (6 oz each)",
+        "2 tbsp unsalted butter, melted",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "Salt and black pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F.",
+        "Place the salmon fillets in a baking dish.",
+        "In a small bowl, whisk together the melted butter and minced garlic.",
+        "Drizzle the butter mixture over the salmon fillets.",
+        "Season the salmon with salt and black pepper to taste.",
+        "Arrange the lemon slices on top of the salmon fillets.",
+        "Bake for 12 to 15 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+        "Serve immediately."
+      ],
+      "prep_time": 5,
+      "cook_time": 15,
+      "total_time": 20,
+      "servings": 4,
+      "image": "https://example.com/baked-salmon.jpg",
+      "tags": ["dinner", "fish", "healthy", "gluten-free"]
+    },
+    {
+      "title": "Crispy Baked Chicken Wings",
+      "description": "These crispy chicken wings are baked in the oven until golden brown and delicious. They make a great appetizer or main dish.",
+      "ingredients": [
+        "2 lbs chicken wings",
+        "2 tbsp baking powder",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp garlic powder",
+        "1/2 tsp paprika",
+        "1/4 tsp cayenne pepper",
+        "1/4 cup unsalted butter, melted",
+        "1/4 cup hot sauce"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F.",
+        "Line a baking sheet with parchment paper.",
+        "In a large bowl, toss the chicken wings with the baking powder, salt, black pepper, garlic powder, paprika, and cayenne pepper.",
+        "Arrange the chicken wings in a single layer on the prepared baking sheet.",
+        "Bake for 45 to 50 minutes, or until the chicken wings are crispy and golden brown.",
+        "In a small bowl, whisk together the melted butter and hot sauce.",
+        "Remove the chicken wings from the oven and drizzle the hot sauce mixture over them.",
+        "Toss the chicken wings to coat them in the sauce.",
+        "Serve the crispy baked chicken wings hot, with your favorite dipping sauce."
+      ],
+      "prep_time": 10,
+      "cook_time": 50,
+      "total_time": 60,
+      "servings": 6,
+      "image": "https://example.com/crispy-chicken-wings.jpg",
+      "tags": ["appetizer", "chicken", "game day"]
+    },
+    {
+      "title": "Crispy Air Fryer Fried Chicken",
+      "description": "This crispy fried chicken is made in the air fryer and is perfect for a healthier version of a classic comfort food.",
+      "ingredients": [
+        "2 lbs chicken drumsticks",
+        "1 cup all-purpose flour",
+        "1 tbsp paprika",
+        "1 tbsp garlic powder",
+        "1 tbsp onion powder",
+        "1 tbsp dried thyme",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "2 eggs",
+        "1/4 cup milk",
+        "2 cups panko bread crumbs",
+        "Olive oil cooking spray"
+      ],
+      "instructions": [
+        "Preheat the air fryer to 400°F.",
+        "In a shallow dish, whisk together the flour, paprika, garlic powder, onion powder, thyme, salt, and black pepper.",
+        "In another shallow dish, whisk together the eggs and milk.",
+        "In a third shallow dish, add the panko bread crumbs.",
+        "Dip each chicken drumstick first into the flour mixture, then into the egg mixture, and finally into the panko bread crumbs, pressing the crumbs onto the chicken to adhere.",
+        "Place the chicken drumsticks in the air fryer basket in a single layer, spraying them with cooking spray.",
+        "Cook the chicken drumsticks for 20 to 25 minutes, flipping them halfway through the cooking time, or until the chicken is cooked through and the coating is crispy and golden brown.",
+        "Serve the crispy air fryer fried chicken hot, with your favorite dipping sauce."
+      ],
+      "prep_time": 15,
+      "cook_time": 25,
+      "total_time": 40,
+      "servings": 4,
+      "image": "https://example.com/air-fryer-fried-chicken.jpg",
+      "tags": ["dinner", "chicken", "air fryer", "healthy"]
+    },
+    {
+      "title": "Air Fryer Salmon",
+      "description": "This healthy and delicious salmon recipe is made in the air fryer for a quick and easy dinner option. The salmon is seasoned with simple ingredients and cooks perfectly in the air fryer, resulting in a crispy and flavorful dish.",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp smoked paprika",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "Lemon wedges, for serving"
+      ],
+      "instructions": [
+        "Preheat your air fryer to 375°F.",
+        "Season the salmon fillets with olive oil, garlic powder, smoked paprika, salt, and black pepper.",
+        "Place the salmon fillets in the air fryer basket in a single layer, skin side down.",
+        "Cook for 8-10 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+        "Serve the salmon hot with lemon wedges."
+      ],
+      "prep_time": 5,
+      "cook_time": 10,
+      "total_time": 15,
+      "servings": 4,
+      "image": "https://example.com/air-fryer-salmon.jpg",
+      "tags": ["dinner", "healthy", "seafood"]
+    },
+    {
+      "title": "No-Bake Chocolate Peanut Butter Bars",
+      "description": "These no-bake chocolate peanut butter bars are an easy and delicious dessert that requires only a few ingredients. They are perfect for chocolate and peanut butter lovers!",
+      "ingredients": [
+        "1 cup creamy peanut butter",
+        "1/2 cup honey",
+        "1/2 cup coconut oil",
+        "2 cups rolled oats",
+        "1 cup semisweet chocolate chips",
+        "1/4 cup chopped peanuts"
+      ],
+      "instructions": [
+        "In a large mixing bowl, combine the peanut butter, honey, and coconut oil. Microwave for 30 seconds or until the mixture is smooth.",
+        "Add the rolled oats and mix well.",
+        "Press the mixture into a 9x13 inch baking dish lined with parchment paper.",
+        "Melt the chocolate chips in a microwave-safe bowl and spread over the peanut butter mixture.",
+        "Sprinkle the chopped peanuts over the chocolate.",
+        "Refrigerate for at least 1 hour before serving.",
+        "Cut into bars and serve chilled."
+      ],
+      "prep_time": 10,
+      "cook_time": 0,
+      "total_time": 70,
+      "servings": 12,
+      "image": "https://example.com/no-bake-chocolate-peanut-butter-bars.jpg",
+      "tags": ["dessert", "no-bake", "chocolate", "peanut butter"]
+    },
+    {
+      "title": "No-Bake Lemon Cheesecake",
+      "description": "This no-bake lemon cheesecake is a refreshing and easy dessert that is perfect for spring and summer. It is made with cream cheese, lemon juice, and a graham cracker crust.",
+      "ingredients": [
+        "1 1/2 cups graham cracker crumbs",
+        "1/4 cup granulated sugar",
+        "1/2 cup unsalted butter, melted",
+        "16 oz cream cheese, softened",
+        "3/4 cup powdered sugar",
+        "1/4 cup fresh lemon juice",
+        "1 tsp vanilla extract",
+        "1 cup heavy cream",
+        "Lemon slices, for garnish"
+      ],
+      "instructions": [
+        "In a mixing bowl, combine the graham cracker crumbs, granulated sugar, and melted butter. Mix until well combined.",
+        "Press the mixture into a 9-inch springform pan and refrigerate for 10 minutes.",
+        "In another mixing bowl, beat the cream cheese until smooth. Add the powdered sugar, lemon juice, and vanilla extract. Mix until well combined.",
+        "In a separate bowl, whip the heavy cream until stiff peaks form.",
+        "Fold the whipped cream into the cream cheese mixture.",
+        "Pour the mixture into the prepared crust.",
+        "Refrigerate for at least 2 hours, or until set.",
+        "Garnish with lemon slices and serve chilled."
+      ],
+      "prep_time": 20,
+      "cook_time": 0,
+      "total_time": 140,
+      "servings": 8,
+      "image": "https://example.com/no-bake-lemon-cheesecake.jpg",
+      "tags": ["dessert", "no-bake", "cheesecake", "lemon"]
+    },
+    {
+      "title": "No-Bake Peanut Butter Cookies",
+      "description": "These simple and delicious no-bake peanut butter cookies are perfect for when you're craving something sweet and don't want to turn on the oven. They're easy to make and require just a few simple ingredients.",
+      "ingredients": [
+        "2 cups quick oats",
+        "1 cup creamy peanut butter",
+        "1 cup honey",
+        "1/2 cup unsweetened cocoa powder",
+        "1/4 cup unsweetened almond milk",
+        "1 tsp vanilla extract",
+        "1/4 tsp salt"
+      ],
+      "instructions": [
+        "In a large mixing bowl, stir together the quick oats, peanut butter, honey, cocoa powder, almond milk, vanilla extract, and salt until well combined.",
+        "Using a cookie scoop or spoon, drop the mixture onto a lined baking sheet, forming about 18 cookies.",
+        "Refrigerate the cookies for at least 30 minutes, or until firm.",
+        "Serve and enjoy!"
+      ],
+      "prep_time": 10,
+      "total_time": 40,
+      "servings": 18,
+      "image": "https://example.com/no-bake-peanut-butter-cookies.jpg",
+      "tags": ["dessert", "no-bake", "peanut butter"]
+    },
+    {
+      "title": "No-Bake Chocolate Cheesecake",
+      "description": "This rich and creamy no-bake chocolate cheesecake is the perfect dessert for any occasion. It's easy to make and requires just a few simple ingredients.",
+      "ingredients": [
+        "2 cups chocolate wafer cookies, crushed",
+        "1/2 cup unsalted butter, melted",
+        "24 oz cream cheese, softened",
+        "1 cup powdered sugar",
+        "1/4 cup unsweetened cocoa powder",
+        "1 tsp vanilla extract",
+        "1/2 cup heavy cream",
+        "1/2 cup semi-sweet chocolate chips, melted",
+        "Whipped cream and chocolate shavings, for topping"
+      ],
+      "instructions": [
+        "In a mixing bowl, stir together the crushed chocolate wafer cookies and melted butter until well combined.",
+        "Press the mixture into the bottom of a 9-inch springform pan and refrigerate for 15 minutes, or until firm.",
+        "In a large mixing bowl, beat the cream cheese until smooth and creamy.",
+        "Add the powdered sugar, cocoa powder, and vanilla extract, and beat until well combined.",
+        "In a separate mixing bowl, beat the heavy cream until stiff peaks form.",
+        "Fold the whipped cream into the cream cheese mixture until well combined.",
+        "Fold in the melted chocolate chips until evenly distributed.",
+        "Pour the mixture over the crust in the springform pan and smooth the top.",
+        "Refrigerate the cheesecake for at least 4 hours, or until firm.",
+        "Serve chilled, topped with whipped cream and chocolate shavings."
+      ],
+      "prep_time": 20,
+      "total_time": 280,
+      "servings": 12,
+      "image": "https://example.com/no-bake-chocolate-cheesecake.jpg",
+      "tags": ["dessert", "no-bake", "chocolate", "cheesecake"]
+    }
+  ]
+}
