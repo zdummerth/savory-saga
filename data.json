@@ -484,6 +484,7 @@
       ],
       "prep_time": 10,
       "total_time": 40,
+      "cook_time": 0,
       "servings": 18,
       "image": "https://example.com/no-bake-peanut-butter-cookies.jpg",
       "tags": ["dessert", "no-bake", "peanut butter"]
@@ -516,6 +517,7 @@
       ],
       "prep_time": 20,
       "total_time": 280,
+      "cook_time": 0,
       "servings": 12,
       "image": "https://example.com/no-bake-chocolate-cheesecake.jpg",
       "tags": ["dessert", "no-bake", "chocolate", "cheesecake"]
